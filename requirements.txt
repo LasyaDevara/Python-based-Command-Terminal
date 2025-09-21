@@ -1,0 +1,7 @@
+psutil>=5.8.0
+ollama>=0.1.0
+openai>=1.0.0
+fuzzywuzzy>=0.18.0
+python-levenshtein>=0.20.0
+rich>=13.0.0
+prompt-toolkit>=3.0.0
